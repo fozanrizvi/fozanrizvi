@@ -43,5 +43,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fozanrizvi&show_icons=true&locale=en" alt="jeromehardaway" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fozanrizvi&" alt="jeromehardaway" /></p>
-
-<a href="https://app.daily.dev/fozanrizvi"><img src="https://api.daily.dev/devcards/5b0da5bbd0c14b718210f2e449380a42.png?r=mjb" width="400" alt="FOZAN RIZVI's Dev Card"/></a>
