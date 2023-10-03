@@ -3,7 +3,7 @@
 <p align="center">Loves a freshly brewed cup of coffee!</p>
 
 
-- 🎥 I'm currently building: **My portfolio**
+- 🎥 I'm currently rebuilding: **My portfolio**
 - 🌱 I'm currently learning: **AWS Amplify, D3.js, Python**
 - 👯 I’m looking to collaborate on: **UI development**
 - 💬 Ask me about **Git, React, JavaScript**
