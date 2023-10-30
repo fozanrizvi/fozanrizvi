@@ -1,6 +1,6 @@
 <h1 align="center">Hi  👋, I'm Fozan Rizvi</h1>
 <h3 align="center">Frontend Developer</h3>
-<p align="center">Loves a freshly brewed cup of coffee! ☕</p>
+<p align="center">Loves a freshly brewed cup of coffee ☕</p>
 
 
 - 🎥 I'm currently rebuilding: **My portfolio**
