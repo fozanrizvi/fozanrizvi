@@ -4,7 +4,7 @@
 
 
 - 🎥 I'm currently rebuilding: **My portfolio**
-- 🌱 I'm currently learning: **AWS Amplify, D3.js, Python**
+- 🌱 I'm currently learning: **AWS Amplify, .NET**
 - 👯 I’m looking to collaborate on: **UI development**
 - 💬 Ask me about **Git, React, JavaScript**
 
