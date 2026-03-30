@@ -1,12 +1,18 @@
 <h1 align="center">Hi  👋, I'm Fozan Rizvi</h1>
-<h3 align="center">Frontend Developer</h3>
-<p align="center">Loves a freshly brewed cup of coffee ☕</p>
 
+🧠 Senior Frontend Engineer · AI/RAG Systems · 8+ years shipping at scale
 
-- 🎥 I'm currently rebuilding: **My portfolio**
-- 🌱 I'm currently learning: **C# .NET**
-- 👯 I’m looking to collaborate on: **UI development**
-- 💬 Ask me about **Git, React, JavaScript**
+💼 @ Golub Capital — React, Next.js, Azure AI Search, RAG pipelines, .NET
+🤖 Built production RAG systems: OpenAI + Azure AI Search → internal Copilot serving org-wide
+⚡ Component library of 50+ components · adopted across 5 internal apps
+📱 Cross-platform: React Native (iOS/Android) · micro-frontend architecture @ Experian
+🚀 Shipped at scale: Axon video records portal used by millions of law enforcement officers
+
+🛠 React · Next.js · JavaScript · RAG · LangChain · Azure · AWS · Python · ASP.NET Core
+
+📍 Chicago → Bay Area (relocating mid-2025)
+💬 Ask me about: frontend architecture, RAG systems, design systems, CI/CD
+🌱 Currently building: consumer AI task orchestration tool (pre-product)
 
 
 <h3>Languages and Tools:</h3>
