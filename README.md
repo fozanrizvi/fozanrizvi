@@ -3,6 +3,7 @@
 🧠 Senior Frontend Engineer · AI/RAG Systems · 8+ years shipping at scale
 
 💼 @ Golub Capital — React, Next.js, Azure AI Search, RAG pipelines, .NET
+<br/>
 🤖 Built production RAG systems: OpenAI + Azure AI Search → internal Copilot serving org-wide
 ⚡ Component library of 50+ components · adopted across 5 internal apps
 📱 Cross-platform: React Native (iOS/Android) · micro-frontend architecture @ Experian
