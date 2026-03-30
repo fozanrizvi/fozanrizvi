@@ -40,7 +40,7 @@
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a>
-<a href="https://www.nuget.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/nuget/nuget-original.svg" alt="nuget" width="40" height="40"/></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://www.sonarsource.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-original.svg" alt="sonarqube" width="40" height="40"/> </a>
 <a href="https://storybook.js.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" alt="storybook" width="40" height="40"/></a>
