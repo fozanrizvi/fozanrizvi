@@ -15,7 +15,7 @@
 🛠 React · Next.js · JavaScript · RAG · LangChain · Azure · AWS · Python · ASP.NET Core
 
 📍 Chicago → Bay Area (relocating mid-2025)
-💬 Ask me about: frontend architecture, RAG systems, design systems, CI/CD
+<br/>
 🌱 Currently building: consumer AI task orchestration tool (pre-product)
 
 
