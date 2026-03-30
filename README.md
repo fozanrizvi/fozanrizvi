@@ -5,8 +5,11 @@
 💼 @ Golub Capital — React, Next.js, Azure AI Search, RAG pipelines, .NET
 <br/>
 🤖 Built production RAG systems: OpenAI + Azure AI Search → internal Copilot serving org-wide
+<br/>
 ⚡ Component library of 50+ components · adopted across 5 internal apps
+<br/>
 📱 Cross-platform: React Native (iOS/Android) · micro-frontend architecture @ Experian
+<br/>
 🚀 Shipped at scale: Axon video records portal used by millions of law enforcement officers
 
 🛠 React · Next.js · JavaScript · RAG · LangChain · Azure · AWS · Python · ASP.NET Core
