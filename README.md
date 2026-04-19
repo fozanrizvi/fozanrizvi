@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Fozan Rizvi</h1>
 
-🧠 Senior Frontend Engineer · AI/RAG Systems · 8+ years shipping at scale
+🧠 Senior Engineer · AI/RAG Systems · 8+ years shipping at scale
 
 💼 Golub Capital — React, Next.js, Azure AI Search, RAG pipelines, .NET
 <br/>
