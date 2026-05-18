@@ -14,7 +14,7 @@
 
 🛠 React · Next.js · JavaScript · RAG · LangChain · Azure · AWS · Python · ASP.NET Core
 
-📍 San Francisco, CA.
+📍 San Francisco, CA
 <br/>
 🌱 Currently building: consumer AI task orchestration tool (pre-product)
 
