@@ -2,7 +2,7 @@
 
 🧠 Senior Engineer · AI/RAG Systems · 8+ years shipping at scale
 
-💼 Golub Capital — React, Next.js, Azure AI Search, RAG pipelines, .NET
+💼 React, Next.js, Azure AI Search, RAG pipelines, .NET
 <br/>
 🤖 Built production RAG systems: OpenAI + Azure AI Search → internal Copilot serving org-wide
 <br/>
