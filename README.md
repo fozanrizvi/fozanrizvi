@@ -1,82 +1,55 @@
-<h1 align="center">Hi, I'm Fozan Rizvi 👋</h1>h1>
+<h1 align="center">Hi, I'm Fozan Rizvi</h1>h1>
 
-<p align="center"><em>Senior Engineer · AI/RAG Systems · 8+ years shipping at scale</em>em></p>p>
+🧠 Senior Engineer · AI/RAG Systems · 8+ years shipping at scale
 
-<p align="center">
-<a href="https://linkedin.com/in/fozanrizvi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>a>
-<a href="https://twitter.com/fozanrizvi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>a>
-<img src="https://komarev.com/ghpvc/?username=fozanrizvi&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+🛠 React · Next.js · JavaScript · RAG · LangChain · Azure · AWS · Python · ASP.NET Core
+<br/>
+🤖 Built production RAG systems: OpenAI + Azure AI Search → internal Copilot serving org-wide
+<br/>
+⚡ Component library of 50+ components · adopted across 5 internal apps
+<br/>
+📱 Cross-platform: React Native (iOS/Android) · micro-frontend architecture @ Experian
+<br/>
+🚀 Shipped at scale: Axon video records portal used by millions of law enforcement officers
+
+
+📍 San Francisco, CA
+<br/>
+🌱 Currently building: consumer AI task orchestration tool (pre-product)
+
+
+<h3>Languages and Tools:</h3>h3>
+<p> 
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="express" width="40" height="40"/> </a>a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" alt="express" width="40" height="40"/> </a>a>
+<a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="confluence" width="40" height="40"/> </a>a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /></a>a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40" /></a>a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>a>
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> </a>a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>a>
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/></a>a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>a>
+<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlserver/sqlserver-original.svg" alt="sqlserver" width="40" height="40"/></a>a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>a>
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a>a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>a>
+<a href="https://www.sonarsource.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-original.svg" alt="sonarqube" width="40" height="40"/> </a>a>
+<a href="https://storybook.js.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" alt="storybook" width="40" height="40"/></a>a>
+<a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" alt="postgresql" width="40" height="40"/> </a>a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="d3js" width="40" height="40"/> </a>a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>a>
 </p>p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fozanrizvi&show_icons=true&locale=en&layout=compact" alt="fozanrizvi" /></p>p>
 
-## 🚀 About Me
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fozanrizvi&show_icons=true&locale=en" alt="fozanrizvi" /></p>p>
 
-- 🧠 **Senior Engineer** specializing in **AI/RAG Systems** with 8+ years shipping at scale
-- - 🤖 Built production RAG systems: **OpenAI + Azure AI Search** → internal Copilot serving org-wide
-  - - ⚡ Architected a **component library of 50+ components** adopted across 5 internal apps
-    - - 📱 Cross-platform: **React Native (iOS/Android)** · micro-frontend architecture @ Experian
-      - - 🚀 Shipped at scale: **Axon video records portal** used by millions of law enforcement officers
-        - - 📍 Based in **San Francisco, CA**
-          - - 🌱 Currently building: **consumer AI task orchestration tool** (pre-product)
-            - - 💬 Ask me about **AI/RAG pipelines, React ecosystems, scalable front-end architecture**
-              -
-              - ---
-              -
-              - ## 🛠️ Tech Stack
-              -
-              - **Frontend**
-              -
-              - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-              - ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-              - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-              - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-              - ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-              - ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-              -
-              - **AI / Backend**
-              -
-              - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-              - ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-              - ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-              - ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-              -
-              - **Cloud & DevOps**
-              -
-              - ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-              - ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-              - ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-              -
-              - ---
-              -
-              - ## 📊 GitHub Stats
-              -
-              - <p align="center">
-              <img src="https://github-readme-stats.vercel.app/api?username=fozanrizvi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Fozan's GitHub Stats" width="48%"/>
-              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fozanrizvi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
-              </p>
-              
-              <p align="center">
-              <img src="https://github-readme-streak-stats.herokuapp.com/?user=fozanrizvi&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="55%"/>
-              </p>p>
-              
-              ---
-
-              ## 🏆 Highlights
-
-              | 🎯 Impact | 📐 Scale |
-              |-----------|----------|
-              | RAG-powered internal Copilot used org-wide | Millions of users — Axon law enforcement portal |
-              | 50+ reusable components across 5 apps | Micro-frontend architecture @ Experian |
-              | Production AI pipelines on Azure + OpenAI | Cross-platform iOS & Android with React Native |
-
-              ---
-
-              ## 🌐 Connect with Me
-
-              [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fozanrizvi)
-              [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/fozanrizvi)
-
-              ---
-
-              <p align="center"><em>"Building things that scale — from components to systems to products."</em>em></p>p></em></em>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fozanrizvi&" alt="fozanrizvi" /></p>p></p></h3>
