@@ -2,7 +2,7 @@
 
 🧠 Senior Engineer · AI/RAG Systems · 8+ years shipping at scale
 
-💼 Golub Capital — React, Next.js, Azure AI Search, RAG pipelines, .NET
+🛠 React · Next.js · JavaScript · RAG · LangChain · Azure · AWS · Python · ASP.NET Core
 <br/>
 🤖 Built production RAG systems: OpenAI + Azure AI Search → internal Copilot serving org-wide
 <br/>
@@ -12,9 +12,8 @@
 <br/>
 🚀 Shipped at scale: Axon video records portal used by millions of law enforcement officers
 
-🛠 React · Next.js · JavaScript · RAG · LangChain · Azure · AWS · Python · ASP.NET Core
 
-📍 San Francisco, CA
+📍 Chicago, IL | San Francisco, CA
 <br/>
 🌱 Currently building: consumer AI task orchestration tool (pre-product)
 
