@@ -15,7 +15,7 @@
 
 📍 Chicago, IL | San Francisco, CA
 <br/>
-🌱 Currently building: consumer AI task orchestration tool (pre-product)
+🌱 Currently building: runbarn.ai | AI consulting
 
 
 <h3>Languages and Tools:</h3>
