@@ -10,7 +10,7 @@
 <br/>
 📱 Cross-platform: React Native (iOS/Android) · micro-frontend architecture @ Experian
 <br/>
-🚀 Shipped at scale: Axon video records portal used by millions of law enforcement officers
+🚀 Shipped at scale: Workflow orchestration platform (3000+ users)
 
 
 📍 Chicago, IL | San Francisco, CA
